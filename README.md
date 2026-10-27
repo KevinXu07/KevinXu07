@@ -22,13 +22,14 @@ I enjoy exploring how software interacts with hardware, learning from source cod
 
 ## Selected Projects
 
+
 ### Systems & Platform Development
 
 - **[Leke Pad L05 Device Tree](https://github.com/KevinXu07/android_device_leke_L05)**  
   LineageOS 15.1 device configuration, hardware analysis, and build documentation for an MSM8953-based tablet.
 
-- **[OrangeFox Recovery Builder](https://github.com/KevinXu07/Action-OFRP-Builder)**  
-  GitHub Actions workflow for automating recovery builds.
+- **[Qin 2 Pro Device Tree](https://github.com/KevinXu07/android_device_qin_qin2pro)**  
+  Device-specific configuration for building LineageOS 19.1 on the Qin 2 Pro.
 
 ### Developer Tools & Applications
 
